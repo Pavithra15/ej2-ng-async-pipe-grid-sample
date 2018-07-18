@@ -1,0 +1,54 @@
+[1218/150051:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[1218/150051:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[1220/103200:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[1220/103200:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[1222/123914:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[1222/123914:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0104/174930:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0104/174930:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0109/163012:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0109/163012:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0212/112251:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0212/112251:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0215/094437:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0215/094437:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0220/172014:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0220/172014:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0424/193833.701:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0424/194212.194:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0424/194338.896:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0424/194627.386:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0424/210932.897:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0424/211310.291:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0424/230615.040:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0424/230818.543:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0424/231020.143:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0424/232344.926:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/092058.348:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/092411.043:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/092611.201:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/093918.611:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/095224.882:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/095615.933:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/115539.069:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/115824.611:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/120128.861:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/125128.670:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/125242.683:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/125607.423:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/153035.616:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/154143.172:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/164017.565:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/164101.669:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/164745.618:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/165200.474:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/171022.322:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/171431.303:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/181813.813:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/182850.092:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/183514.037:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/184020.645:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/190031.175:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/190524.164:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/190712.933:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0425/191004.369:ERROR:crash_report_database_win.cc(427)] unexpected header

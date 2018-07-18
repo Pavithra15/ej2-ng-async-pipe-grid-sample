@@ -1,0 +1,48 @@
+{
+  "name": "ej2-ng-grids-async-pipe",
+  "version": "0.0.1",
+  "description": "Syncfusion Angular Grid For Observable object",
+  "main": "index.js",
+  "scripts": {
+    "rmf": "node ./node_modules/rimraf/bin dist",
+    "build": "node ./node_modules/typescript/bin/tsc",
+    "bundle": "node ./node_modules/webpack/bin/webpack",
+    "dev": "node ./node_modules/lite-server/bin/lite-server",
+    "start": "npm run rmf && npm run build & npm run bundle & npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Hariharan",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "@angular/common": "~5.2.10",
+    "@angular/compiler": "~5.2.10",
+    "@angular/core": "~5.2.10",
+    "@angular/forms": "~5.2.10",
+    "@angular/http": "~5.2.10",
+    "@angular/platform-browser": "~5.2.10",
+    "@angular/platform-browser-dynamic": "~5.2.10",
+    "@angular/router": "~5.2.10",
+    "@syncfusion/ej2-ng-buttons": "*",
+    "@syncfusion/ej2-ng-grids": "*",
+    "angular-in-memory-web-api": "^0.5.4",
+    "core-js": "*",
+    "rxjs": "^5.5.10",
+    "systemjs": "0.19.40",
+    "zone.js": "^0.8.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2",
+    "rimraf": "^2.5.2",
+    "typescript": "2.3.3",
+    "@types/node": "^6.0.46",
+    "@types/core-js": "^0.9.42",
+    "webpack": "^2.2.1"
+  }
+}
